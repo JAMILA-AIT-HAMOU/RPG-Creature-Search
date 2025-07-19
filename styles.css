@@ -14,8 +14,9 @@ body{
 }
 h1{
   text-align:center;
-  margin:3rem auto;
+  margin:4rem auto;
   text-decoration:underline 5px ;
+  font-size: 3.5rem;
 }
 main{
   margin:0 auto;
